@@ -4,7 +4,7 @@
 
 Digital clock with different timezone.
 
-![alt text](https://github.com/DylanC-Code-L/Advanced-JS-Chat-App/blob/main/screenshots/github.png?raw=true)
+![alt text](https://github.com/DylanC-Code-L/Beginner-JS-Digital-Clock/blob/main/screenshots/github.png?raw=true)
 
 ## Table of Contents
 
